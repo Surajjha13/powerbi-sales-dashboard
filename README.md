@@ -45,7 +45,7 @@ The Power BI report utilizes:
 ![Top/Bottom Sales Analysis](/screenshots/Screenshot 2025-06-16 183712.png)
 
 #### 🔹 Overview 
-![Overview](screenshots/Screenshot 2025-06-16 183726.png)
+![Overview](](screenshots/Screenshot 2025-06-16 183726.png)
 
 #### 🔹 Comparison Sales/Quantity/Profit
 ![Comparison Sales/Quantity/Profit](screenshots/Screenshot 2025-06-16 183749.png)
