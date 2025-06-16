@@ -42,7 +42,8 @@ The Power BI report utilizes:
 ### 🖼️ Dashboard Previews
 
 #### 🔹 5 Top/Bottom Sales Analysis  
-![Top/Bottom Sales Analysis]([https://github.com/Surajjha13/powerbi-sales-dashboard/raw/main/screenshots/topbottom_sales.png](https://github.com/Surajjha13/powerbi-sales-dashboard/blob/ef2d84e3fc78bc8cedd42ab23e834933d6004c0b/screenshots/Screenshot%202025-06-16%20183712.png))
+![Top/Bottom Sales Analysis](screenshots/Screenshot 2025-06-16 183712.png)
+
 
 #### 🔹 Overview 
 ![Overview](](screenshots/Screenshot 2025-06-16 183726.png)
