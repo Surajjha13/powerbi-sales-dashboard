@@ -1,5 +1,7 @@
 # 📊 Sales Analysis Dashboard
 
+![Cover](cover.png)
+
 This Power BI project is focused on a detailed **Sales Analysis Dashboard** built using Excel data. It aims to uncover meaningful insights into product performance, sales trends, profit behavior, discount effectiveness, and customer purchasing patterns.
 
 ---
@@ -37,6 +39,22 @@ The Power BI report utilizes:
 
 ---
 
+### 🖼️ Dashboard Previews
+
+#### 🔹 5 Top/Bottom Sales Analysis  
+![Top/Bottom Sales Analysis](/screenshots/Screenshot 2025-06-16 183712.png)
+
+#### 🔹 Overview 
+![Overview](screenshots/Screenshot 2025-06-16 183726.png)
+
+#### 🔹 Comparison Sales/Quantity/Profit
+![Comparison Sales/Quantity/Profit](screenshots/Screenshot 2025-06-16 183749.png)
+
+#### 🔹 Table Visual
+![Table Visula](screenshots/Screenshot 2025-06-16 183800.png)
+
+---
+
 ## 💡 Insights & Benefits
 
 - Easily identify top- and bottom-performing products
@@ -64,6 +82,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 Special thanks to the dataset providers and the Power BI community for tutorials and visualization inspiration.
-
----
-
