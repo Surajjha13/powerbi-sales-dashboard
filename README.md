@@ -1,12 +1,11 @@
-# 📊 Sales Analysis Dashboard
+# Sales Analysis Dashboard
 
-![Cover](cover.png)
 
 This Power BI project is focused on a detailed **Sales Analysis Dashboard** built using Excel data. It aims to uncover meaningful insights into product performance, sales trends, profit behavior, discount effectiveness, and customer purchasing patterns.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 The dashboard answers the following key business questions:
 
@@ -21,42 +20,42 @@ The dashboard answers the following key business questions:
 
 ---
 
-## 📂 Data Source
+## Data Source
 
 - The project uses an **Excel dataset** containing sales transaction-level data, including metrics like product name, order quantity, unit price, discount, city, and customer details.
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 The Power BI report utilizes:
 
-- 📊 **Stacked Bar Charts**
-- 📉 **Scatter Plots**
-- 📋 **Table Visuals**
-- 🔘 **Slicers and Filters** for interactivity
-- 📌 Dynamic comparisons using **Date Range Filters**
+-  **Stacked Bar Charts**
+-  **Scatter Plots**
+-  **Table Visuals**
+-  **Slicers and Filters** for interactivity
+-  **Dynamic comparisons using **Date Range Filters**
 
 ---
 
-### 🖼️ Dashboard Previews
+### 🖼Dashboard Previews
 
 #### 🔹 5 Top/Bottom Sales Analysis  
 ![Top/Bottom Sales Analysis](https://github.com/Surajjha13/powerbi-sales-dashboard/blob/main/screenshots/Screenshot%202025-06-16%20183712.png?raw=true)
 
 
 #### 🔹 Overview 
-![Overview](](screenshots/Screenshot 2025-06-16 183726.png)
+![Overview](https://github.com/Surajjha13/powerbi-sales-dashboard/blob/main/screenshots/Screenshot%202025-06-16%20183726.png?raw=true)
 
 #### 🔹 Comparison Sales/Quantity/Profit
-![Comparison Sales/Quantity/Profit](screenshots/Screenshot 2025-06-16 183749.png)
+![Comparison Sales/Quantity/Profit](https://github.com/Surajjha13/powerbi-sales-dashboard/blob/main/screenshots/Screenshot%202025-06-16%20183739.png?raw=true)
 
 #### 🔹 Table Visual
-![Table Visula](screenshots/Screenshot 2025-06-16 183800.png)
+![Table Visula](https://github.com/Surajjha13/powerbi-sales-dashboard/blob/main/screenshots/Screenshot%202025-06-16%20183800.png?raw=true)
 
 ---
 
-## 💡 Insights & Benefits
+## Insights & Benefits
 
 - Easily identify top- and bottom-performing products
 - Understand how discounts influence sales
@@ -65,7 +64,7 @@ The Power BI report utilizes:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone/download this repository.
 2. Open the `.pbix` file using **Power BI Desktop**.
@@ -74,12 +73,12 @@ The Power BI report utilizes:
 
 ---
 
-## 📃 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Special thanks to the dataset providers and the Power BI community for tutorials and visualization inspiration.
